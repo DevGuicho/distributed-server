@@ -1,0 +1,46 @@
+{
+  "servList": [
+    {
+      "name": "servidor1",
+      "port": 12345,
+      "ip": "localhost",
+      "services": [
+        {
+          "nameOfService": "fecha",
+          "factor": 0
+        },
+        {
+          "nameOfService": "hora",
+          "factor": 0
+        },
+        {
+          "nameOfService": "cuantos",
+          "factor": 0
+        },
+        {
+          "nameOfService": "fin",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "name": "servidor2",
+      "port": 13777,
+      "ip": "localhost",
+      "services": [
+        {
+          "nameOfService": "crypt",
+          "factor": 0
+        },
+        {
+          "nameOfService": "cuantos",
+          "factor": 0
+        },
+        {
+          "nameOfService": "fin",
+          "factor": 0
+        }
+      ]
+    }
+  ]
+}
